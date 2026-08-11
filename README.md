@@ -1,40 +1,37 @@
-# Laboratory 01 – Welcome to the Cloud
+# Cloud Computing Portfolio
 
-## Mission Overview
+Welcome to my Cloud Computing Portfolio. My name is **Justin Zedric Espita**, and I am a fourth-year Bachelor of Science in Information Technology student.
 
-This laboratory activity is an introduction to cloud computing and Linux environments. In this activity, I used KillerCoda to access an Ubuntu Linux environment and prepared a workspace for my cloud computing activities.
+This repository will contain my laboratory activities, technical exercises, documentation, screenshots, and reflections throughout the semester.
 
-## Objectives
+## About This Portfolio
 
-* Access and use a cloud-based Linux environment.
-* Learn basic Linux commands.
-* Check system information.
-* Create and organize files and folders.
-* Create and manage a GitHub repository.
-* Use Markdown to document my work.
+This portfolio will serve as a collection of the skills and knowledge I develop throughout the course. It will include activities related to Linux, cloud computing, Git, Docker, Kubernetes, cloud infrastructure, monitoring, and system administration.
 
-## Activities Performed
+## Laboratory Activities
 
-For this laboratory, I accessed the Ubuntu 24.04.4 LTS environment using KillerCoda. I created a new user named `jespita` with sudo access and checked the username, working directory, and hostname. I also gathered information about the Linux distribution, kernel, CPU, memory, and disk space. After that, I created the required folders and `about-me.md` file for my workspace. Finally, I started organizing my laboratory files in my GitHub repository.
+### Laboratory 01 – Welcome to the Cloud
 
-## Linux Commands Used
+This laboratory focuses on getting started with a cloud-based Linux environment, learning basic Linux commands, gathering system information, organizing files, and documenting technical work using Markdown and GitHub.
 
-Some of the Linux commands I used during this activity were:
+More laboratory activities will be added to this repository throughout the semester.
 
-* `whoami` – displays the current username.
-* `pwd` – shows the current working directory.
-* `hostname` – displays the computer hostname.
-* `cat /etc/os-release` – displays Linux distribution information.
-* `uname -r` – shows the kernel version.
-* `lscpu` – displays CPU information.
-* `free -h` – displays memory information.
-* `df -h /` – shows available disk space.
-* `mkdir` – creates directories.
-* `cd` – changes the current directory.
-* `nano` – creates or edits text files.
-* `cat` – displays the contents of a file.
-* `find` – searches for files and directories.
+## Skills
 
-## Skills Learned
+Through these laboratory activities, I aim to improve my skills in:
 
-Through this activity, I learned how to work with a Linux terminal and use basic commands to manage files and check system information. I also learned how to create a simple workspace and organize my laboratory files. Another important skill I practiced was documenting my work using Markdown and GitHub. These skills will be useful in future activities involving cloud computing, Linux, and system administration.
+* Linux
+* Cloud Computing
+* Git and GitHub
+* Cloud Infrastructure
+* Docker
+* Kubernetes
+* System Administration
+* Monitoring
+* Technical Documentation
+
+## Student
+
+**Name:** Justin Zedric Espita
+**Program:** Bachelor of Science in Information Technology
+**Year Level:** Fourth Year
