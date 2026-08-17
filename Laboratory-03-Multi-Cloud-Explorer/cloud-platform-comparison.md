@@ -30,6 +30,18 @@ I think Google Cloud is one of the strongest choices for AI and Kubernetes. It h
 
 If I had to choose one, I would choose Google Cloud because I am interested in cloud computing, AI, and modern application development. I also like that it has services such as Compute Engine and Google Kubernetes Engine that can be useful for learning and developing cloud-based applications. However, I would still consider the requirements of the project before choosing a cloud provider.
 
+## Equivalent Cloud Services
+
+The three major cloud providers offer similar services, although their names and some features are different. The table below shows some equivalent services between AWS, Azure, and Google Cloud.
+
+| Service Category        | AWS        | Azure                          | GCP                            |
+| ----------------------- | ---------- | ------------------------------ | ------------------------------ |
+| **Virtual Machine**     | Amazon EC2 | Azure Virtual Machines         | Compute Engine                 |
+| **Object Storage**      | Amazon S3  | Azure Blob Storage             | Cloud Storage                  |
+| **Identity Management** | AWS IAM    | Microsoft Entra ID             | Cloud IAM                      |
+| **SQL Database**        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| **Kubernetes**          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
 ## Sources
 
 * [Google Cloud – AWS, Azure, and Google Cloud service comparison](https://docs.cloud.google.com/docs/get-started/aws-azure-gcp-service-comparison)
