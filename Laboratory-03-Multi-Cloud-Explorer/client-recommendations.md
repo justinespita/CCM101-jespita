@@ -32,3 +32,16 @@ I would recommend AWS for the global e-commerce company because it has a large g
 | **Client B – University**        | Microsoft Azure      | Strong Microsoft integration                |
 | **Client C – AI Research**       | Google Cloud         | Strong AI and machine learning capabilities |
 | **Client D – Global E-Commerce** | AWS                  | Global infrastructure and scalability       |
+
+## Multi-Cloud Decision Matrix
+
+The decision matrix below shows which cloud provider I would recommend for different business requirements. The choice depends on what the organization needs rather than simply choosing the most popular provider.
+
+| Business Requirement        | Recommended Platform | Justification                                                                                                                   |
+| --------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Startup Company**         | AWS                  | AWS provides many services that a startup can use while allowing its resources to grow as the business grows.                   |
+| **Enterprise Organization** | AWS                  | AWS has a wide range of services and global infrastructure that can support different enterprise workloads.                     |
+| **Microsoft Environment**   | Microsoft Azure      | Azure works well with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft Entra ID.                     |
+| **AI / Machine Learning**   | Google Cloud         | Google Cloud provides strong AI and machine learning services and infrastructure for demanding workloads.                       |
+| **Kubernetes Deployment**   | Google Cloud         | Google Kubernetes Engine (GKE) provides a managed Kubernetes environment for deploying and managing containerized applications. |
+| **Global Web Application**  | AWS                  | AWS has a large global infrastructure and services that can help applications scale and serve users in different locations.     |
